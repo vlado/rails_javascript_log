@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = RailsJsLog::VERSION
   spec.authors       = ["Vlado Cingel"]
   spec.email         = ["vladocingel@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Rails engine containing Adam Schwartz's javascript logging library (Console.log with style) }
+  spec.summary       = %q{Rails engine containing Adam Schwartz's javascript logging library (Console.log with style) }
+  spec.homepage      = "https://github.com/vlado/rails_js_log"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
