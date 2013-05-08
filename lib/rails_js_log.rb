@@ -1,5 +1,8 @@
 require "rails_js_log/version"
 
 module RailsJsLog
-  # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
