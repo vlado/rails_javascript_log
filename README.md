@@ -1,4 +1,4 @@
-# RailsJsLog
+# RailsJavascriptLog
 
 Rails engine containing Adam Schwartz's javascript logging library [https://github.com/adamschwartz/log](https://github.com/adamschwartz/log).
 
@@ -8,7 +8,7 @@ This gem just saves you from having to locate and copy the javascript into place
 
 Add this line to your application's Gemfile:
 
-    gem 'rails_js_log'
+    gem 'rails_javascript_log'
 
 And then execute:
 
@@ -18,7 +18,7 @@ And then execute:
 
 Add this line to your `app/assets/javascripts/application.js`:
 
-    //= require rails_js_log
+    //= require rails_javascript_log
 
 ## Contributing
 

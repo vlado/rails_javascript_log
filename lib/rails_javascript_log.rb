@@ -1,6 +1,6 @@
-require "rails_js_log/version"
+require "rails_javascript_log/version"
 
-module RailsJsLog
+module RailsJavascriptLog
   module Rails
     class Engine < ::Rails::Engine
     end
