@@ -1,5 +1,7 @@
 # RailsJavascriptLog
 
+[![Code Climate](https://codeclimate.com/github/vlado/rails_javascript_log.png)](https://codeclimate.com/github/vlado/rails_javascript_log)
+
 Rails engine containing Adam Schwartz's javascript logging library [https://github.com/adamschwartz/log](https://github.com/adamschwartz/log).
 
 This gem just saves you from having to locate and copy the javascript into place.
